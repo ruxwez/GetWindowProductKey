@@ -1,5 +1,3 @@
-Aquí tienes un ejemplo de README para tu repositorio en GitHub:  
-
 # Obtener Clave de Activación de Windows  
 
 Este script de PowerShell permite obtener la clave de activación de Windows almacenada en el sistema operativo.  
